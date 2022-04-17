@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #061a4d !important;
+}
+
+.linkColor {
+    color: #ccc !important;
+}
+
+.linkColor:hover {
+    color: #fff !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
